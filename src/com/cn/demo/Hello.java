@@ -7,4 +7,5 @@ package com.cn.demo;
  */
 public class Hello {
     private int a = 0;
+    private String stre = "";
 }
